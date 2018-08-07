@@ -1,2 +1,5 @@
-i couldn't use jfxtextfield and other jfx controls in scenbuilder
-please can someone help ASAP
+i am using netbeans IDE 8.2 and the latest gluan scenebuilder with jfoenix-9.0.5.jar library
+the problem is i couldn't use the jfx controls( i am talking of jfxbutton, jfxtextfield and son on)
+anytime i search for it from the library, i couldn't find it 
+
+will appreciate if any one help ASAP
